@@ -10,7 +10,7 @@ import Titulo from '../Titulo';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // import required modules
-import { Autoplay, Navigation } from 'swiper/modules';
+import { Autoplay } from 'swiper/modules';
 
 const Avaliacoes = () => (
   <AvaliacoesContainer>
@@ -30,8 +30,7 @@ const Avaliacoes = () => (
       spaceBetween={24}
       loop={true}
       grabCursor={true}
-      navigation={true}
-      modules={[Autoplay, Navigation]}
+      modules={[Autoplay]}
       autoplay={{
         delay: 2500, // tempo em ms
         disableOnInteraction: false,

@@ -80,27 +80,6 @@ export const AvaliacoesContainer = styled.div`
       font-size: 12px;
       color: #8889a8;
     }
-
-    .swiper-button-prev,
-    .swiper-button-next {
-      background-color: #fff;
-      width: 25px;
-      height: 25px;
-      color: crimson;
-      border: 1px solid #f9fafb;
-      border-radius: 100%;
-      box-shadow: 0px 0px 20px 0px rgba(92, 115, 160, 0.2);
-    }
-
-    .swiper-button-prev::after {
-      font-weight: 900;
-      font-size: 14px;
-    }
-
-    .swiper-button-next::after {
-      font-weight: 900;
-      font-size: 14px;
-    }
   }
 `;
 
