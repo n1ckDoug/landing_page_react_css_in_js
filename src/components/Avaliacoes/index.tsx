@@ -3,8 +3,7 @@ import { Container } from '../../styles';
 import { BarraTitulo, AvaliacoesContainer } from './styles';
 
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/navigation';
+import 'swiper/swiper-bundle.css';
 
 // Componente
 import Titulo from '../Titulo';
