@@ -72,7 +72,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_01.png" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 01</h3>
@@ -96,7 +96,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_02.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 02</h3>
@@ -119,7 +119,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_03.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 03</h3>
@@ -143,7 +143,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_04.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 04</h3>
@@ -166,7 +166,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_05.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 05</h3>
@@ -190,7 +190,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_06.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 06</h3>
@@ -214,7 +214,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_07.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 07</h3>
@@ -238,7 +238,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_08.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 08</h3>
@@ -262,7 +262,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_09.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 09</h3>
@@ -285,7 +285,7 @@ const Avaliacoes = () => (
         </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
-            <img src="/src/images/autor_10.jpg" alt="Foto autor" />
+            <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
           </div>
           <div className="author-info">
             <h3>Cliente 10</h3>
