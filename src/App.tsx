@@ -2,6 +2,7 @@ import { EstiloGlobal } from './styles';
 
 import Header from './containers/Header';
 import Main from './containers/Main';
+import Footer from './containers/Footer';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <EstiloGlobal />
       <Header />
       <Main />
+      <Footer />
     </>
   );
 }

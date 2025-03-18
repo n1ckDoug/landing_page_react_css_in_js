@@ -56,19 +56,6 @@ const Avaliacoes = () => (
       className="mySwiper"
     >
       <SwiperSlide>
-        <div className="testimonials-rate">
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-        </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -78,8 +65,12 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
         <div className="testimonials-rate">
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
@@ -87,12 +78,8 @@ const Avaliacoes = () => (
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
         </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -102,20 +89,21 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div className="testimonials-rate">
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-        </div>
         <blockquote className="testimonials-quote">
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
           ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
           iure labore est, libero consequuntur tempore? Debitis neque eligendi
           odio."
         </blockquote>
+        <div className="testimonials-rate">
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -125,8 +113,12 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
         <div className="testimonials-rate">
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
@@ -134,12 +126,8 @@ const Avaliacoes = () => (
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
         </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -149,20 +137,21 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div className="testimonials-rate">
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star-half-stroke"></i>
-        </div>
         <blockquote className="testimonials-quote">
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
           ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
           iure labore est, libero consequuntur tempore? Debitis neque eligendi
           odio."
         </blockquote>
+        <div className="testimonials-rate">
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -172,21 +161,21 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div className="testimonials-rate">
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star-half-stroke"></i>
-        </div>
         <blockquote className="testimonials-quote">
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
           ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
           iure labore est, libero consequuntur tempore? Debitis neque eligendi
           odio."
         </blockquote>
+        <div className="testimonials-rate">
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -196,8 +185,12 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
         <div className="testimonials-rate">
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
@@ -205,12 +198,8 @@ const Avaliacoes = () => (
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
         </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -220,8 +209,12 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
         <div className="testimonials-rate">
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
@@ -229,12 +222,8 @@ const Avaliacoes = () => (
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
         </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -244,8 +233,12 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
         <div className="testimonials-rate">
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
@@ -253,12 +246,8 @@ const Avaliacoes = () => (
           <i className="fa-solid fa-star"></i>
           <i className="fa-solid fa-star"></i>
         </div>
-        <blockquote className="testimonials-quote">
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
-          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
-          iure labore est, libero consequuntur tempore? Debitis neque eligendi
-          odio."
-        </blockquote>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -268,20 +257,21 @@ const Avaliacoes = () => (
             <p>Cliente desde 2020</p>
           </div>
         </div>
-      </SwiperSlide>
-      <SwiperSlide>
-        <div className="testimonials-rate">
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-          <i className="fa-solid fa-star"></i>
-        </div>
         <blockquote className="testimonials-quote">
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
           ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
           iure labore est, libero consequuntur tempore? Debitis neque eligendi
           odio."
         </blockquote>
+        <div className="testimonials-rate">
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+        </div>
+      </SwiperSlide>
+      <SwiperSlide>
         <div className="testimonials-author">
           <div className="author-avatar">
             <img src="https://github.com/n1ckDoug.png" alt="Foto autor" />
@@ -290,6 +280,19 @@ const Avaliacoes = () => (
             <h3>Cliente 10</h3>
             <p>Cliente desde 2020</p>
           </div>
+        </div>
+        <blockquote className="testimonials-quote">
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis
+          ullam nobis vel sequi maxime quae eius alias aperiam possimus magnam
+          iure labore est, libero consequuntur tempore? Debitis neque eligendi
+          odio."
+        </blockquote>
+        <div className="testimonials-rate">
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star"></i>
         </div>
       </SwiperSlide>
     </Swiper>
